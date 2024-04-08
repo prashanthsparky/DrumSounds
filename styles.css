@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-image: url(https://img.freepik.com/free-vector/glowing-musical-pentagram-background-with-sound-notes_1017-31220.jpg?size=626&ext=jpg&ga=GA1.1.2075438234.1709469770&semt=ais);
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 black;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+#btn{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49a4VrHtHzxgjeZdDKduPTV0EV_kKfNtYuw&s);
+  opacity: .7;
+}
+#btn1{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHl8kTRm2KPvMcZBk72ofvUprwwcnGoi24A&s);
+  opacity: .7;
+}
+#btn2{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-1u1-ej2NkURXhJOVnfDNJ6u2Tbp9pYgzSg&s);
+  opacity: .7;
+}
+#btn3{
+  background-image: url(https://cdn-icons-png.flaticon.com/512/2972/2972066.png);
+  opacity: .7;
+}
+#btn4{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZ_350iGIhov--qGXo6aTLak36n4WMK7G8g&s);
+  opacity: .7;
+}
+#btn5{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJatkJ9i2pXCxmsrXsBZtmJgTlHcBqsm8Xw&s);
+  opacity: .7;
+}
+#btn6{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-QFu0qfWN5TWiOLZtY2weGE5rlD1l59Nyyg&s);
+  opacity: .7;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
